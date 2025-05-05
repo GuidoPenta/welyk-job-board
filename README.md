@@ -18,6 +18,7 @@ Se sei in ricerca attiva e vuoi registrarti sul nostro sito, clicca qui: https:/
 | [**Data Engineer III**](clients/agilelab/data_engineer_III.md)                | 47k - 60k | Full remote        | [AgileLab](clients/agilelab/company.md)  |
 | [**Data Engineer IV**](clients/agilelab/data_engineer_IV.md)                  | 60k - 70k | Full remote        | [AgileLab](clients/agilelab/company.md)  |
 | [**Junior Application Maintenance**](clients/agilelab/junior_application_maintenance.md)  | 30k - 40k | Full remote | [AgileLab](clients/agilelab/company.md)  |
+| [**Atlassian Engineer**](clients/hinto-group/atlassian-engineer.md)  | 38k - 40k | Full remote | [hinto-group](clients/hinto-group/company.md)  |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Ricerche concluse (con successo 😎)
