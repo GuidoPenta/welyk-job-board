@@ -21,6 +21,9 @@ Se sei in ricerca attiva e vuoi registrarti sul nostro sito, clicca qui: https:/
 | [**Atlassian Engineer**](clients/hinto-group/atlassian-engineer.md)  | 38k - 40k | Full remote | [hinto-group](clients/hinto-group/company.md)  |
 | [**Data Platform Lead**](clients/compugroup_medical/data-platform-lead.md)  | 60k | Hybrid 3+2 | [compugroup-medical](clients/compugroup-medical/company.md)  |
 | [**Software Developer ETL & Cloud Integration**](clients/compugroup-medical/software-developer-etl-cloud-integration.md)  | 50k | Hybrid 3+2 | [compugroup-medical](clients/compugroup-medical/company.md)  |
+| [**Junior Cloud & Infrastructure Engineer**](clients/besharp/junior-cloud-and-infrastructure-engineer.md)           | 28k - 45k | Flexible Hybrid | [beSharp](clients/besharp/company.md)    |
+| [**Front-End Developer**](clients/ideasolutions/front-end-developer.md)                | 36k - 42k | Flexible Hybrid        | [IdeaSolutions](clients/ideasolutions/company.md)  |
+| [**iOs Developer**](clients/ideasolutions/ios-developer.md)                  | 36k - 42k | Flexible Hybrid        | [AgileLab](clients/ideasolutions/company.md)  |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Ricerche concluse (con successo 😎)
