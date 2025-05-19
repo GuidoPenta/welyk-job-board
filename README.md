@@ -23,7 +23,7 @@ Se sei in ricerca attiva e vuoi registrarti sul nostro sito, clicca qui: https:/
 | [**Software Developer ETL & Cloud Integration**](clients/compugroup-medical/software-developer-etl-cloud-integration.md)  | 50k | Hybrid 3+2 | [compugroup-medical](clients/compugroup-medical/company.md)  |
 | [**Junior Cloud & Infrastructure Engineer**](clients/besharp/junior-cloud-and-infrastructure-engineer.md)           | 28k - 45k | Flexible Hybrid | [beSharp](clients/besharp/company.md)    |
 | [**Front-End Developer**](clients/ideasolutions/front-end-developer.md)                | 36k - 42k | Flexible Hybrid        | [IdeaSolutions](clients/ideasolutions/company.md)  |
-| [**iOs Developer**](clients/ideasolutions/ios-developer.md)                  | 36k - 42k | Flexible Hybrid        | [AgileLab](clients/ideasolutions/company.md)  |
+| [**iOs Developer**](clients/ideasolutions/ios-developer.md)                  | 36k - 42k | Flexible Hybrid        | [IdeaSolutions](clients/ideasolutions/company.md)  |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Ricerche concluse (con successo 😎)
