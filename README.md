@@ -11,7 +11,7 @@ Se sei in ricerca attiva e vuoi registrarti sul nostro sito, clicca qui: https:/
 
 | Role                                                                          | Ral       | Contract           | Company                                  |                                                           
 |-------------------------------------------------------------------------------|-----------|--------------------|------------------------------------------|
-| [**Back-end Developer**](clients/humans.tech/backend-developer.md)            | 25k - 44k | Full remote        | [humans.tech](clients/humans.tech/company.md)    |
+| [Back-End Developer](https://recruiting.welyk.tech/jobs/5803664-back-end-developer-humans-tech)         | 30k - 44k | Full remote        | [humans.tech](https://humans.tech)    |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Ricerche concluse (con successo 😎)
