@@ -12,7 +12,11 @@ Se sei in ricerca attiva e vuoi registrarti sul nostro sito, clicca qui: https:/
 | Role                                                                          | Ral       | Contract           | Company                                  |                                                           
 |-------------------------------------------------------------------------------|-----------|--------------------|------------------------------------------|
 | [Back-End Developer](https://recruiting.welyk.tech/jobs/5803664-back-end-developer-humans-tech)         | 30k - 44k | Full remote        | [humans.tech](https://humans.tech)    |
+| [Front-End Developer](https://recruiting.welyk.tech/jobs/6122893-front-end-developer-humans-tech)         | 30k - 44k | Full remote        | [humans.tech](https://humans.tech)   |
 | [Back-End Engineer](https://recruiting.welyk.tech/jobs/6264364-backend-engineer-data-focused-routescan)         | 70k - 85k | Full remote        | [Routescan](https://routescan.io)    |
+| [Back-End Engineer](https://recruiting.welyk.tech/jobs/6242579-back-end-engineer-glaut)         | 60k - 90k | Full remote        | [Glaut](https://glaut.com)    |
+| [IT Manager](https://recruiting.welyk.tech/jobs/6180171-it-manager-caffeina)         | 35k - 50k | Hybrid Parma/Milan      | [Caffeina](https://caffeina.com)    |
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Ricerche concluse (con successo 😎)
