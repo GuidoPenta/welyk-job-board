@@ -18,6 +18,7 @@ Se sei in ricerca attiva e vuoi registrarti sul nostro sito, clicca qui: https:/
 | [Full Stack Developer](https://recruiting.welyk.tech/jobs/6421233-full-stack-developer-sibill)        | 40k - 60k | Full Remote      | [Sibill](https://sibill.com)    |
 | [Senior Software Developer](https://recruiting.welyk.tech/jobs/6392271-senior-software-developer)        | 50k - 60k | Full Remote      | [Eoliann](https://eoliann.com)    |
 | [Engineering Lead](https://recruiting.welyk.tech/jobs/6391811-engineering-lead)         | 60k - 70k | Full Remote      | [Eoliann](https://eoliann.com)    |
+| [Back-End Developer](https://recruiting.welyk.tech/jobs/6187542-back-end-developer-spacearth)         | 60k - 70k | Full Remote CONTRACTOR ONLY     | [Spacearth](https://spacearth.com)    |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Ricerche concluse (con successo 😎)
